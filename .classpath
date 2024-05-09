@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/nam3_Ki1/PTUD/workSpace/qliKaraokeNice/libs/itextpdf-5.5.13.jar"/>
+	<classpathentry kind="lib" path="D:/nam3_Ki1/PTUD/workSpace/qliKaraokeNice/libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/nam3_Ki1/PTUD/workSpace/qliKaraokeNice/libs/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/nam3_Ki1/PTUD/workSpace/qliKaraokeNice/libs/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/nam3_Ki1/PTUD/workSpace/qliKaraokeNice/libs/jfreechart-1.5.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/nam3_Ki1/PTUD/workSpace/qliKaraokeNice/libs/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="libs/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/nam3_Ki1/PTUD/workSpace/qliKaraokeNice/libs/angus-activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/nam3_Ki1/PTUD/workSpace/qliKaraokeNice/libs/jakarta.activation-api-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/nam3_Ki1/PTUD/workSpace/qliKaraokeNice/libs/jakarta.mail-2.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
